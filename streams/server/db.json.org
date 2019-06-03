@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "New streamer",
+      "description": "6th streamer",
+      "id": 1
+    },
+    {
+      "title": "tests1",
+      "description": "tests111",
+      "userId": "115433161116249643357",
+      "id": 2
+    }
+  ]
+}

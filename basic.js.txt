@@ -1,0 +1,2 @@
+Everything without a value is false: 0 is false, "" (empty string) is false, undefined is false, NaN is false.
+

@@ -1,0 +1,15 @@
+{
+  "cpu_load": [
+    {
+    "measurement": "cpu_load",
+    "tags": {
+        "host": "server01",
+        "region": "us-west"
+    },
+    "time": "2019-05-08T04:00:00Z",
+    "fields": {
+        "Float_value": 0.64
+    }
+    }
+  ]
+}
